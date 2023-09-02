@@ -1,6 +1,6 @@
 ---
 title: memories
-type: post
+type: blog
 ---
 
 
