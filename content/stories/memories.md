@@ -3,7 +3,7 @@ title: Memories
 type: blog
 ---
 
-![image](https://github.com/gnpashi/blog/assets/25707933/84ca6dd6-ed53-4f32-801f-e5aba43a1fe8)
+![DALL·E 2023-09-02 15 58 24](https://github.com/gnpashi/blog/assets/25707933/5ba63e77-0782-44fd-a17b-98ff881818f3)
 
 In a city suspended among the stars, built on forgotten dreams and powered by the memories of its inhabitants, there existed a place known as the Archive of Regrets. It was here that every soul's darkest secrets, regrets, and longings were stored. Elias, a lone archivist, was its keeper.
 
