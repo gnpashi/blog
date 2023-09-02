@@ -23,9 +23,6 @@ menu:
     - name: Stories
       pageRef: /stories
       weight: 2
-    - name: Posts
-      pageRef: /posts
-      weight: 3
     - name: Search
       weight: 4
       params:
