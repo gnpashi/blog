@@ -23,8 +23,11 @@ menu:
     - name: Posts
       pageRef: /posts
       weight: 2
-    - name: Search
+    - name: About
+      pageRef: /about
       weight: 3
+    - name: Search
+      weight: 4
       params:
         type: search
 
