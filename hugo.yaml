@@ -17,9 +17,6 @@ markup:
 
 menu:
   main:
-    - name: Stories
-      pageRef: /stories
-      weight: 1
     - name: Posts
       pageRef: /posts
       weight: 2
