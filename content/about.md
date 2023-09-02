@@ -3,4 +3,4 @@ title: About
 type: about
 ---
 
-This is the about page.
+My name is Guy Pashi. i use AI to create stories.
