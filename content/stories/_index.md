@@ -1,5 +1,19 @@
-{{ range .Site.RegularPages.ByDate.Reverse }}
-  {{ if eq .Section "stories" }}
-    <h2>{{ .Title }}</h2>
-  {{ end }}
+{{ define "main" }}
+  <main>
+    <article>
+      <header>
+        <h1>{{ .Title }}</h1>
+      </header>
+      <!-- "{{ .Content }}" pulls from the markdown content of the corresponding _index.md -->
+      {{ .Content }}
+    </article>
+    <ul>
+      <!-- Ranges through content/posts/*.md -->
+      {{ range .Pages }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Date.Format "2006-01-02" }} | {{ .Title }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  </main>
 {{ end }}
