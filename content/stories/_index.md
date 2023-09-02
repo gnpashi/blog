@@ -1,4 +1,5 @@
-{{ range where .Site.RegularPages "Section" "stories" }}
-  {{ .Title }} <!-- Display the title of each story -->
-  <!-- Add more template code to display other information about the story -->
+{{ range .Site.RegularPages.ByDate.Reverse }}
+  {{ if eq .Section "stories" }}
+    <h2>{{ .Title }}</h2>
+  {{ end }}
 {{ end }}
