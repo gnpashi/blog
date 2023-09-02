@@ -1,6 +1,5 @@
 # Hugo configuration file
-title: Pashi blog
-
+title: Guy Pashi
 # import hextra as module
 module:
   imports:
