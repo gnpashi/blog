@@ -1,0 +1,4 @@
+---
+title: Stories
+type: blog
+---
