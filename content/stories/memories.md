@@ -1,7 +1,7 @@
 ---
 title: Memories
 type: blog
-date: 2020-01-01
+date: 2023-02-09
 ---
 
 ![DALL·E 2023-09-02 15 58 24](https://github.com/gnpashi/blog/assets/25707933/5ba63e77-0782-44fd-a17b-98ff881818f3)
